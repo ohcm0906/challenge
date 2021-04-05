@@ -1,2 +1,1 @@
-# challenge
-First practice
+프론트엔드 연습을 위한 클론코딩 시작!
