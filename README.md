@@ -18,7 +18,7 @@
 - (18.10 ~ 18.11) 일본 YAMAN사 미용기 어플리케이션 테스트 (Objective-c, ios)
 - (18.11 - 18.12) 일본 FUJITSU사 포스 레지 데이터 마트 시스템 이행 (PL/SQL, EXCEL, 출력 파일 비교 툴)
 - (18.12 - 19.01) 일본 HUJISOFT사 사내 부동산 어플리케이션 테스트 (아이패드, 몽키테스트)
-- (18.03.05 - 18.03.12) 태블릿 신규 예약 프로그램 시스템 (HTML, CSS, JAVASCRIPT)
+- (19.02 - 19.04) 태블릿 신규 예약 프로그램 시스템 (HTML, CSS, JAVASCRIPT)
 
 ## Interest Language👀
 - HTML
