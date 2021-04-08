@@ -8,7 +8,7 @@
 - (17.09 - 18.08) SCIT 마스터 JAVA, DATABASE, ANDROID, HTML,CSS JAVASCRIPT, SPRING
 
 ## Develop Experience 🤹‍♀️(한국)
-- (16.11.07 ~ 16.11.21) 인간센서 인식 조명 프로그램 (C, LINUX, CORTEX-M3 BOARD)
+- (16.10.21 ~ 16.11.16) 인간센서 인식 조명 프로그램 (C, LINUX, CORTEX-M3 BOARD)
 - (17.11.16 - 17.11.22) K-MOVE SURVEY(자바 프로젝트)
 - (18.01.26 - 18.02.01) 영화 정보의견공유 게시판(NEGABOX) (웹 프로젝트)
 - (18.03.05 - 18.03.12) ANDROID를 활용한 ToDo-List (안드로이드 프로젝트)
